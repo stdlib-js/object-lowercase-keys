@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-23)
+## Unreleased (2025-12-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fbea12f`](https://github.com/stdlib-js/stdlib/commit/fbea12f6b9bda1fce997175ca3eaf574a89beb59) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`c6d6ff7`](https://github.com/stdlib-js/stdlib/commit/c6d6ff70ac2b4e0ccbbc98e3d18b4aa1df3e7e88) - **feat:** add `object/lowercase-keys` _(by Neeraj Pathak)_
 
 </details>
